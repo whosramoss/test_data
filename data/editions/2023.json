@@ -10,27 +10,6 @@
    "backgroundMobile":"https://raw.githubusercontent.com/whosramoss/test_data/main/assets/backgrounds/mobile/2023.png",
    "isPopularVoteEnabled":false,
    "isPrivateVoteEnabled":false,
-   "winners":[
-      {
-         "id":"8d3d7047-d8e3-4e25-9baa-dee0debcfc6c",
-         "name":"Eskerda",
-         "photo":"https://raw.githubusercontent.com/whosramoss/test_data/main/assets/artists/eskerda.png",
-         "categories":[
-            {
-               "id":"2907cc48-84f6-4ba6-af1e-11f3b510768e",
-               "name":"Melhor Roadie",
-               "link":""
-            }
-         ]
-      }
-   ],
-   "finalists":[
-      {
-         "id":"8d3d7047-d8e3-4e25-9baa-dee0debcfc6c",
-         "name":"Eskerda",
-         "photo":"https://raw.githubusercontent.com/whosramoss/test_data/main/assets/artists/eskerda.png"
-      }
-   ],
    "support":{
       "title":"Apoio",
       "list":[
