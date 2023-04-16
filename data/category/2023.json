@@ -81,7 +81,7 @@
         "id": "af535ba1-2c56-492c-bbe0-66c81b1cb490",
         "name": "Melhor Videoclipe",
         "hasLink": true,
-        "isCircle": false
+        "isCircle": true
     },
     {
         "id": "9823d058-962d-4bb7-b493-0c179459972a",
@@ -93,7 +93,7 @@
         "id": "fe8f2f65-6d84-4860-bbc1-f9bf72ae92f7",
         "name": "Melhor Show/Live",
         "hasLink": true,
-        "isCircle": false
+        "isCircle": true
     },
     {
         "id": "c5bc6406-8d30-44a9-a6d4-558761a0d8d9",
