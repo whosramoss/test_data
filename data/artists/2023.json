@@ -3,8 +3,8 @@
       "id": "8d3d7047-d8e3-4e25-9baa-dee0debcfc6c",
       "name": "Eskerda",
       "photo": "assets/artists/eskerda.png",
-      "isWinner": true,
-      "isFinalist": true,
+      "isWinner": false,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "b2c48a71-c6f6-499e-901a-a5713de87575"
@@ -15,7 +15,7 @@
       "name": "Igor Baiano / Baba",
       "photo": "assets/artists/igor_baiano.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "0a93518a-7923-4bee-9fae-ad82c2bb2e28"
@@ -26,7 +26,7 @@
       "name": "Igor Comério",
       "photo": "assets/artists/igor_comerio.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "0a93518a-7923-4bee-9fae-ad82c2bb2e28"
@@ -37,7 +37,7 @@
       "name": "Júlio Sunderhus",
       "photo": "assets/artists/julio_sunderhus.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "a36c3e2e-7796-4043-a5ed-a56e7517ebb9"
@@ -48,7 +48,7 @@
       "name": "André Prando",
       "photo": "assets/artists/andre_prando.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "c54db4b3-d426-41c7-8356-cbe1fd7a44a1"
@@ -59,7 +59,7 @@
       "name": "Luiza Dutra",
       "photo": "assets/artists/luiza_dutra.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "c54db4b3-d426-41c7-8356-cbe1fd7a44a1"
@@ -70,7 +70,7 @@
       "name": "Pedro de Alcântara",
       "photo": "assets/artists/pedro_de_alcantara.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "35b7846c-e5a1-4a29-95ed-9eae7d750785"
@@ -81,7 +81,7 @@
       "name": "Dan Abranches",
       "photo": "assets/artists/dan_abranches.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "a6e37d95-ca60-401f-a55f-9d85b7514e6f"
@@ -92,7 +92,7 @@
       "name": "Auri",
       "photo": "assets/artists/auri.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "ae7f9e5c-ead7-4f25-b71c-ff305488725a"
@@ -103,7 +103,7 @@
       "name": "Jackson Pinheiro",
       "photo": "assets/artists/jackson_pinheiro.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "daf9fc3d-aa9a-40c2-8c54-4fd4c028bf37"
@@ -114,7 +114,7 @@
       "name": "Rodolfo Simor",
       "photo": "assets/artists/rodolfo_simor.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "daf9fc3d-aa9a-40c2-8c54-4fd4c028bf37"
@@ -125,7 +125,7 @@
       "name": "Afronta MC",
       "photo": "assets/artists/afronta_mc.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "3694adb0-3ee7-4ed5-a9fd-7af880eb15d2",
@@ -137,7 +137,7 @@
       "name": "Instituto Serenata D'Favela",
       "photo": "assets/artists/serenata.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "267a5ce2-1e26-42a6-a7f4-3eb407e2eaa9"
@@ -148,7 +148,7 @@
       "name": "Vale Música",
       "photo": "assets/artists/vale_musica.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "267a5ce2-1e26-42a6-a7f4-3eb407e2eaa9"
@@ -159,7 +159,7 @@
       "name": "Budah",
       "photo": "assets/artists/budah.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "2de682a9-f1ec-4f56-bf0e-fdd75b122169"
@@ -170,7 +170,7 @@
       "name": "Fabriccio",
       "photo": "assets/artists/fabriccio.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "312a9026-3f4a-4aa6-beec-fd0412abf4bc"
@@ -181,7 +181,7 @@
       "name": "Bella Nogueira",
       "photo": "assets/artists/bella_nogueira.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "",
       "categories": [
          "5d93bfa5-8ad2-493a-b376-321bdee69866"
@@ -192,7 +192,7 @@
       "name": "Morenna Ft. BK Euro",
       "photo": "assets/artists/morenna.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "https://www.youtube.com/watch?v=_2J4MxQ-Too",
       "categories": [
          "af535ba1-2c56-492c-bbe0-66c81b1cb490"
@@ -203,7 +203,7 @@
       "name": "Budah Velha Brincadeira",
       "photo": "assets/artists/budah_musica.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "https://www.youtube.com/watch?v=K5IYQGygO0k",
       "categories": [
          "9823d058-962d-4bb7-b493-0c179459972a"
@@ -214,7 +214,7 @@
       "name": "André Prando Virada SP",
       "photo": "assets/artists/andre_prando_show.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "https://www.youtube.com/watch?v=oUG0dIY0_Wg",
       "categories": [
          "fe8f2f65-6d84-4860-bbc1-f9bf72ae92f7"
@@ -225,7 +225,7 @@
       "name": "Cesar MC Dai a Cesar O Que É de Cesar",
       "photo": "assets/artists/cesar_mc_album.png",
       "isWinner": false,
-      "isFinalist": true,
+      "isFinalist": false,
       "link": "https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux?si=xDwRgu8vRBaAmshAya4GXQ&nd=1",
       "categories": [
          "c5bc6406-8d30-44a9-a6d4-558761a0d8d9"
