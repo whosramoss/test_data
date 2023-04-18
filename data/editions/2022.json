@@ -1,0 +1,52 @@
+{
+   "id": "b3acb6d4-13b7-4b49-a366-80bd904302c9",
+   "year": "2023",
+   "image": "assets/logos/2023.png",
+   "editionNumber": 1,
+   "color": "F2C94C",
+   "linkEditionResume": "assets/videos/2022.mp4",
+   "linkEdition": "https://www.youtube.com/watch?v=L5p7hGc4_u4",
+   "backgroundDesktop": "assets/backgrounds/desktop/2023.png",
+   "backgroundMobile": "assets/backgrounds/mobile/2023.png",
+   "isPopularVoteEnabled": false,
+   "isPrivateVoteEnabled": false,
+   "support": [
+      "assets/support/2023/formemus.png",
+      "assets/support/2023/funcultura.png",
+      "assets/support/2023/gees.png"
+   ],
+   "content": {
+      "title": "Com o objetivo de valorizar a produção musical e os profissionais da música nascidos ou radicados no Espírito Santo, o primeiro Prêmio da Música Capixaba abre votação online para a escolha da vaga popular dos indicados para premiação, que será realizada no dia 03 de agosto.",
+      "description": "O evento irá celebrar os profissionais capixabas e as realizações musicais feitas durante o ano de 2021 e contará com prêmios técnicos, destaques individuais e coletivos e prêmios para os produtos musicais mais relevantes do último ano, como melhor álbum/EP, melhor música, melhor videoclipe e melhor show/live."
+   },
+   "honored": {
+      "name": "Flávio Vezzoni",
+      "description": "O Prêmio da Música Capixaba tem o objetivo de reconhecer os talentos da música produzida no Espírito Santo. A cada ano um artista será homenageado pela contribuição relevante à Música Capixaba e Brasileira.\n\nPara o primeiro ano, o escolhido foi Flávio Vezzoni, do Grupo Moxuara.\n\nFilho do carpinteiro Amâncio Vezzoni e da dona de casa Norma Rovetta Vezzoni, Flávio Vezzoni nasceu em 1965 no pequeno território de Dois Irmãos, em Anchieta(ES), situado às margens da BR 101, nas proximidades da divisa entre os municípios de Anchieta e Alfredo Chaves, onde viveu os primeiros seis anos de sua infância.\n\nEm 1971, juntamente com sua família formada por pai, mãe e seus nove irmãos, mudou-se para Cariacica, onde vive desde então. Começou a trabalhar muito cedo, aos doze anos já trabalhava com seus irmãos na construção civil e aos quinze anos ganhou de seu pai um violão, o primeiro violão com o qual construiu suas melodias, as quais posteriormente viriam a fazer parte dos CDs do Grupo MOXUARA. Em 1982, já militante assíduo das CEB's (Comunidades Eclesiais de Base) de igreja católica, ingressa no seminário, onde estudou por dois anos, com o objetivo de se tornar padre.\n\nEm 1986 começa a cursar a faculdade de História pela Universidade Federal do Espírito Santo, durante o período diurno, ao mesmo tempo em que trabalhava como bancário no período noturno. Quando concluiu os estudos da sua graduação educacional, passou a dedicar, cada vez mais, a maior parte do seu tempo para música e formou, juntamente com José Elias, Luis Aguilar e Zé Renato, o Grupo Moxuara. O grupo musical que, inicialmente, tinha apenas o objetivo de diversão e esporádicas participações em festivais de música, à medida que ia ganhando prêmios, ia também, trilhando um caminho cada vez mais profissional e assim grava seu primeiro CD intitulado Quarto Crescente (1996) e os outros, Pontos e Nós, Musiculturarte, Tempo de Colher e Aventura, sendo este último CD e DVD, lançados entre 2009 e 2012.\n\nNesta lista de CDs gravados, destaca-se o Musiculturarte, fruto do projeto educacional de mesmo nome, idealizado por Flávio Vezzoni e José Elias, e desenvolvido pelo grupo Moxuara em mais de cento e cinquenta escolas das redes públicas e privadas do Espírito Santo, a sua maior parte na região metropolitana. Em uma destas escolas conhece a então professora Renata Rosa Weixter, com quem se casa, em vão morar em um sítio na região rural de Cariacica. Assessora técnica pedagógica e crítica dos projetos educacionais do Moxuara, Renata passa a cuidar da relação do Moxuara com a educação e incentiva a volta de Flávio aos estudos.\n\nEm 2012 Flávio se forma especialista em Arte e Educação e em 2013 lança em parceria com a esposa, o livro/cd Almanarte, voltado para a educação infantil com enfoque na ética, valores e na sustentabilidade. Atualmente, com o Almanarte, Flávio dedica todo o seu tempo de trabalho aos workshops com educadores do ensino infantil e aos shows do Moxuara.",
+      "photo": "assets/honored/2023.png"
+   },
+   "rules": {
+      "title": "Conheça as etapas do Prêmio",
+      "list": [
+         {
+            "title": "Pré-indicação",
+            "description": "O evento irá celebrar os profissionais capixabas e as realizações musicais feitas durante o ano de 2021 e contará com prêmios técnicos, destaques individuais e coletivos e prêmios para os produtos musicais mais relevantes do último ano, como melhor álbum/EP, melhor música, melhor videoclipe e melhor show/live."
+         },
+         {
+            "title": "Curadoria",
+            "description": "A partir das informações coletadas sobre a produção realizada em 2021, foram escolhidos 10 indicados de cada categoria. Nas categorias de produtos musicais a curadoria foi realizada pela Diretora Artística do Festival Do Sol e Presidenta da Abrafin Ana Morena Tavares, o Diretor Artístico do MARTE Festival e Produtor Musical Barral Lima e o engenheiro de áudio, Produtor Musical e capítulo a parte da música brasileira, Pena Schmidt."
+         },
+         {
+            "title": "Votação Popular",
+            "description": "A votação popular é aberta para todos e está disponível online até o dia 19 de junho, com resultado no dia 21 de junho. São 17 categorias, cada uma terá 4 finalistas, sendo uma dessas vagas escolhidas por voto popular."
+         },
+         {
+            "title": "Júri",
+            "description": "O júri irá definir os outros 3 finalistas. O júri será formado por todos os indicados na etapa 3. Os 108 indicados vão poder escolher o melhor em cada categoria, até o dia 05 de julho."
+         },
+         {
+            "title": "Premiação",
+            "description": "A premiação para conhecer os vencedores de cada categoria aconteceu em um evento presencial no dia 03 de agosto no Teatro Glória no Centro Cultural Sesc Glória."
+         }
+      ]
+   }
+}
